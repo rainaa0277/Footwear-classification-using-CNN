@@ -1,4 +1,4 @@
-# Footwear-classification-using-CNN
+# Footwear-classification-using-ConvNets
 
 Building a footwear classification model using CNN.
 
