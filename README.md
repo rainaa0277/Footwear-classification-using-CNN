@@ -16,3 +16,8 @@ Goal: Given the images of a product with multiple categories, train a model whic
 
 Data Description: Data is all about images of shoes with multiple categories and data is collected from a popular Ecommerce site. 
 Data set consists of two folders train and test.
+![download](https://user-images.githubusercontent.com/56979644/157957086-be1d2cec-b7c4-458d-8bfa-e255eec10d54.png)
+![download](https://user-images.githubusercontent.com/56979644/157957165-10203065-79e4-44fa-9f87-4d58368793d2.png)
+![download](https://user-images.githubusercontent.com/56979644/157957208-638fa592-de49-418a-8853-cbb8e8ab39b4.png)
+![download](https://user-images.githubusercontent.com/56979644/157957231-3e7f11dc-cfdf-4e22-a1e9-ac0eabfe34f4.png)
+![download](https://user-images.githubusercontent.com/56979644/157957274-93f20072-c1e2-400e-a2c4-97b238254dc6.png)
